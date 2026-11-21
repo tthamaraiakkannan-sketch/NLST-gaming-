@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">NLST Gaming</string>
+    <string name="stream_notification_channel_name">Gameplay Screen Capture</string>
+    <string name="stream_notification_title">NLST Gaming Capture Active</string>
+    <string name="stream_notification_text">Screen capture service is running. Tap Stop to end capture.</string>
+    <string name="action_stop_capture">Stop Capture</string>
+</resources>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">NLST Gaming</string>
+    <string name="stream_notification_channel_name">கேம்ப்ளே திரை பதிவு</string>
+    <string name="stream_notification_title">NLST Gaming திரைப் பதிவு செயலில் உள்ளது</string>
+    <string name="stream_notification_text">திரைப் பதிவு சேவை இயங்குகிறது. நிறுத்த Stop அழுத்தவும்.</string>
+    <string name="action_stop_capture">நிறுத்து</string>
+</resources>

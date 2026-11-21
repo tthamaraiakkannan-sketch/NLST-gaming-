@@ -1,0 +1,6 @@
+{
+  "name": "NLST Gaming",
+  "description": "Gaming live streaming, Free Fire squad voice chat rooms, real-time DSP voice effects, YouTube Live RTMP integration, and live audience chat in Tamil & English.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.NlstGaming" parent="android:Theme.DeviceDefault.NoActionBar">
+        <item name="android:windowBackground">@color/obsidian_black</item>
+        <item name="android:statusBarColor">@color/obsidian_black</item>
+        <item name="android:navigationBarColor">@color/obsidian_black</item>
+        <item name="android:windowSplashScreenBackground">@color/obsidian_black</item>
+        <item name="android:windowSplashScreenAnimatedIcon">@drawable/ic_launcher_foreground</item>
+        <item name="android:windowSplashScreenIconBackgroundColor">@color/obsidian_black</item>
+    </style>
+</resources>
